@@ -1,5 +1,5 @@
 function getImage(){
-fetch;file:///home/tugi/Downloads/undraw_scientist_re_fs04%20(1).svg
+fetch;"file:///home/tugi/Downloads/undraw_scientist_re_fs04%20(1).svg"
 fetch;image.png
 console.log("image.png")
 }
